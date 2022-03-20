@@ -1,2 +1,3 @@
 # Praktikum-Mobile
-where i put my abstract codes
+Nama : Muhammad Naufal Furqan
+NIM  : 2010817210011
