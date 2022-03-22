@@ -11,6 +11,5 @@ class pekerjaannopal(var namaKerjaan: String = "Mahasiswa", val Gaji : Int = 0){
             Pekerjaan ? $namaKerjaan
             Gaji ? $Gaji
         """.trimIndent())
-
     }
 }
